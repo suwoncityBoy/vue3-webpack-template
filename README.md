@@ -8,7 +8,7 @@
 - Babel
 - PostCSS
 - Autoprefixer
-- ESLint __(+ESLint)__
+- ESLint 
 
 ## Packages
 
