@@ -1,4 +1,4 @@
-# Vue3 템플릿 with Webpack (no router)
+# Vue3 템플릿 with Webpack
 
 ## Specs
 
@@ -9,6 +9,8 @@
 - PostCSS
 - Autoprefixer
 - ESLint 
+- vue-router
+- vuex
 
 ## Packages
 
